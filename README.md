@@ -13,7 +13,8 @@
 
 #### 实例效果
 
-![精美时钟效果图](https://github.com/Jmengfei/Custom/tree/master/image/customView_01.gif)
+![精美时钟效果图](https://github.com/Jmengfei/CustomView/tree/master/image/CustomView_01.gif)
+
 
 #### 联系方式：
 
